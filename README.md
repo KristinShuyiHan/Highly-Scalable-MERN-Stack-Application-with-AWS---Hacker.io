@@ -176,15 +176,6 @@ By default, the backend runs on **http://localhost:8000** and the frontend on **
 
 ---
 
-## **Future Improvements**
-
-- Implement **GraphQL** for optimized queries.
-- Add **AI-powered content recommendation**.
-- Use **Microservices architecture** for further scalability.
-- Migrate authentication to **AWS Cognito**.
-
----
-
 ## **Contributing**
 
 1. Fork the repo.
